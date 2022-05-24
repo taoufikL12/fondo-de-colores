@@ -1,0 +1,237 @@
+
+body {
+   
+    background-image: url("descarga.jpg");
+    
+}
+
+
+.body {
+    background: #008000;
+    width:900px;
+    height: 400px;
+    position:relative;
+    margin: 80px auto;
+    overflow:hidden;
+
+}
+
+
+
+.black {
+    width: 166px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    margin-top: 67px;
+    margin-left: 1px;
+
+}
+
+.lightblux {
+    width: 166px;
+    height: 100px;
+    background-color: rgb(16, 202, 219);
+    margin-top: -100px;
+    margin-left: 150px;
+
+}
+
+.darkblue {
+
+   width: 166px;
+    height: 100px;
+    background-color: rgb(29, 9, 159);
+    margin-top: -100px;
+    margin-left: 314px;
+
+
+}
+
+.lightgreen{
+    width: 166px;
+    height: 100px;
+    background-color: rgb(11, 1, 69);
+    margin-top: -100px;
+    margin-left: 480px;
+
+
+}
+
+.white{
+    width: 166px;
+    height: 100px;
+    background-color: rgb(75, 230, 28);
+    margin-top: -100px;
+    margin-left: 590px;
+    
+
+}
+
+.purpole{
+    width: 166px;
+    height: 100px;
+    background-color: rgb(228, 239, 225);
+    margin-top: -100px;
+    margin-left: 740px;
+
+}
+
+.yellow {
+    width: 150px;
+    height: 100px;
+    background-color: rgb(201, 21, 168);
+    margin-top: -0px;
+    margin-left: 1px;
+
+    
+
+}
+
+.olive{
+    width: 165px;
+    height: 100px;
+    background-color: rgb(202, 206, 7);
+    margin-top: -100px;
+    margin-left: 150px;
+
+}
+
+.red {
+    width: 165px;
+    height: 100px;
+    background-color: rgb(47, 105, 11);
+    margin-top: -100px;
+    margin-left: 314px;
+
+}
+
+.brighred {
+    width: 166px;
+    height: 100px;
+    background-color: rgb(225, 13, 13);
+    margin-top: -100px;
+    margin-left: 479px;
+
+}
+
+
+.grey {
+    width: 166px;
+    height: 100px;
+    background-color: rgb(0, 0, 0);
+    margin-top: -100px;
+    margin-left: 590px;
+    
+
+}
+.whiteolive {
+    width: 166px;
+    height: 100px;
+    background-color: rgb(135, 138, 134);
+    margin-top: -100px;
+    margin-left: 740px;
+
+}
+.redgoblin {
+    width: 150px;
+    height: 160px;
+    background-color: rgb(47, 105, 11);
+    margin-bottom: -200px;
+    margin-left: 0px;
+    
+}
+
+.fuchsia {
+    width: 165px;
+    height: 132px;
+    background-color: rgb(188, 12, 12);
+    margin-top: 40px;
+    margin-left: 150px;
+}
+
+
+
+.color {
+    width: 165px;
+    height: 132px;
+    background-color: rgb(184, 11, 89);
+    margin-top: -133px;
+    margin-left: 314px;
+
+}
+  
+
+.sheep {
+    width: 160px;
+    height: 132px;
+    background-color: #008000;
+    margin-top: -130px;
+    margin-left: 478px;
+
+}
+
+h2 {
+    
+    color: rgb(17, 14, 14);
+    margin-left: 350px;
+    
+  
+    
+}
+#cabecera2 {
+    color: rgb(60, 148, 148);
+}
+
+.text-coral {
+    color: #1b13ba;
+}
+
+.text-elefante {
+    color: #08054c;
+}
+
+.text-megatron {
+    color: #52e152;
+}
+
+.text-optimus {
+    color: white;
+}
+
+.text-macabro {
+    color: purple;
+}
+
+.text-machupichu {
+    color: yellow;
+}
+
+.text-megapichi {
+    color: olive;
+}
+
+.text-moral{
+    color: red;
+}
+
+.text-tanquete {
+    color: rgb(107, 41, 10);
+}
+
+.text-miruls{
+    color: grey;
+}
+
+.text-bireda {
+    color: fuchsia;
+}
+
+.text-fugaz {
+    color: green;
+
+}
+
+
+.text-fugiz {
+    color: silver;
+}
